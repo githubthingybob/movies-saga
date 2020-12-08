@@ -1,0 +1,24 @@
+#backBtn {
+     background-image: linear-gradient(45deg, #ff7996 40%, #ff8364 90%);
+     color: white;
+     margin-top: 40px;;
+}
+
+#backBtn:hover {
+     color: rgb(255, 6, 213);
+}
+
+#detailsPara{
+     background-color: #8d507b60;
+     padding: 20px;
+     border-radius: 20px;
+     margin-top:10px;
+}
+
+#imgPoster {
+     border-radius: 10px;
+     border: solid 4px #ffffffa9; 
+     width: 20%;
+     height: 20%;
+}
+

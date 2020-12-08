@@ -1,0 +1,38 @@
+
+body {
+  margin-top: 0px;
+  margin-bottom: 100px;
+  background-color: #500826;
+  font-family: 'Abril Fatface';
+  color: #fff;
+}
+
+#main{
+  margin: auto;
+  margin-top: 100px;
+  width: 80%;
+}
+
+
+header {
+  background-image: linear-gradient(30deg, #ff54549d, #ee0dbd3b);
+  text-align: center;
+  padding: 20px 0 10px 0
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+}
+
+a:hover {
+  color: rgb(255, 6, 213);
+}
+
+a {
+  color: white;
+}
+
+#buttons {
+  text-align: center;
+  margin-top: 30px;
+}
